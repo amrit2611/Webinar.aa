@@ -8,3 +8,5 @@
         --custom-grey-400: #6f89a1;
     }
 }
+
+@custom-variant dark (&:where(.dark, .dark *));
