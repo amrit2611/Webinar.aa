@@ -4,8 +4,12 @@
     :root {
         --custom-blue-800: #00204f;
         --custom-blue-700: #13335f;
+        --custom-blue-900: #011f5a;
+        --custom-blue-greet: #01205b;
         --custom-green-400: #26d2db;
         --custom-grey-400: #6f89a1;
+        --custom-green-icon: #00ebcf;
+        --custom-green-divide: #33eed8;
     }
 }
 
