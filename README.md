@@ -1,5 +1,3 @@
-Tailwind 
-
-week 13.1
-and
-week 13.2
+# Webinar.aa
+A fully responsive clone of Webinar.gg page.
+Created using Tailwind + ReactJS
